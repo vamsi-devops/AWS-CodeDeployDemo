@@ -1,3 +1,4 @@
 #!/bin/bash
 service httpd start
-
+/root/arachni-1.5.1-0.5.12/bin/
+./arachni http://vtalent.in/ --checks=xss*
